@@ -1,0 +1,852 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A suddain essay with a sincere desire to vindicate Christianity, or the common faith, from the superlative heresies or phantasticall novelties of all selfe-particular Sciolists endeavouring the subversion of the same by seven arguments used in opposition to Mr. John Biddle, Febr. 18 and Febr. 25, 1654 at his school in Coleman Street by Richard Jackson.</title>
+            <author>Jackson, Richard, 1621-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46990</idno>
+            <idno type="STC">Wing J87A</idno>
+            <idno type="STC">ESTC R28947</idno>
+            <idno type="EEBO-CITATION">10784916</idno>
+            <idno type="OCLC">ocm 10784916</idno>
+            <idno type="VID">45860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A suddain essay with a sincere desire to vindicate Christianity, or the common faith, from the superlative heresies or phantasticall novelties of all selfe-particular Sciolists endeavouring the subversion of the same by seven arguments used in opposition to Mr. John Biddle, Febr. 18 and Febr. 25, 1654 at his school in Coleman Street by Richard Jackson.</title>
+                  <author>Jackson, Richard, 1621-1677.</author>
+                  <author>Biddle, John, 1615-1662.</author>
+               </titleStmt>
+               <extent>[3], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Socinianism.</term>
+               <term>Unitarianism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45860:1"/>
+            <pb facs="tcp:45860:1" rendition="simple:additions"/>
+            <p>A SUDDAIN ESSAY, With a ſincere deſire to vindicate
+Chriſti<g ref="char:EOLhyphen"/>anity, or the Common Faith: From the ſuperlative Hereſies, or
+phantaſticall Novelties, of all ſelfe-particular Scioliſts, endeavouring
+the ſubver<g ref="char:EOLhyphen"/>ſion of the ſame: by ſeven Arguments uſed in Oppoſiti<g ref="char:EOLhyphen"/>on
+to Mr. <hi>John Biddle, Febr.</hi> 18. and <hi>Febr.</hi> 25. 1654. at his
+School in <hi>Coleman-ſtreet.</hi>
+            </p>
+            <p>By <hi>Richard Jackſon,</hi> Maſter of the Free Grammar School
+in <hi>Sedbergh,</hi> and Preacher of the Goſpel in <hi>Garſdale.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by THO. HARPER. 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45860:2" rendition="simple:additions"/>
+            <pb facs="tcp:45860:2" rendition="simple:additions"/>
+            <head>To his Highneſſe the Lord Protector of <hi>England,
+Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His bold addreſſe is made, not to move for any ſecular
+aide or armed aſſiſtance, either to maintaine the Ar<g ref="char:EOLhyphen"/>guments, or mall the
+adverſary. The Catholick faith, (once delivered to the Saints) is a truth
+which hu<g ref="char:EOLhyphen"/>mane authority ſeldome underſtandeth, nor ever ought to change or
+alter. Magiſtrates, in my conceit, may doe well to countenance what they
+conceive to be right and Canonicall, ſo they doe not for the intereſt of
+their own ſenſe, by ſecular compulſion, ſuppreſſe all different
+Opinioniſts, walking orderly in reference to the worlds po<g ref="char:EOLhyphen"/>lity. When Kings
+or Parliaments act otherwiſe, I am in great fear tis more for their own ends,
+then advance of the faith, which as all other Religions may bee retained as an
+inſtrument of tyranny, (ſo one of the Turks hath acknowledged) not as a
+ſaving truth. And therefore I could not think, but that the late Parliament
+incurred ſome reproach, in ſo caſting this learned Opinioniſt into
+Priſon, con<g ref="char:EOLhyphen"/>trary to the notorious example of ſome Calviniſticall
+Magiſtrates in <hi>Geneva,</hi> medling with a more ſuperlative Heretike,
+<hi>Servitus</hi> the Spaniard, and quite againſt the moderation of ſuch
+able mn, as was that pious Biſhop of Marſeilles <hi>[Salvianus.]</hi> So
+giving ſcan<g ref="char:EOLhyphen"/>dalous advantage to our clamorous Adverſaries, who conclude an
+ab<g ref="char:EOLhyphen"/>ſolute neceſſity of ſecular compulſion, ſubordinate to
+Eccleſiaſticall power, without the which, ſects will abound, and baffle
+the ableſt of Biſhoply Doctors; ſaying alſo, it is irrationall to
+think, that theſe Arrian queſtions, can be definitively reſolved, by a
+criticall libra<g ref="char:EOLhyphen"/>tion of dead and uncertaine words, as if in theſe
+myſteries, the ſpi<g ref="char:EOLhyphen"/>rit were not Gramatically plaine. Therefore deeming this
+opinion better correſponding with the prophane and ignorant, then with the
+pious and able in Scripture underſtanding; in the firſt place I hum<g ref="char:EOLhyphen"/>bly
+Petition your Highneſſe that mine Adverſary may be free to write what he
+pleaſeth, in anſwer to the Arguments, or for his own <pb facs="tcp:45860:3"/>
+Aſſertion; for upon pretended feares they have refuſed the proffe<g ref="char:EOLunhyphen"/>red way
+of giving and receiving juſt ſatisfaction, and in this fai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e way if I cannot wrap him up in ſuch
+apparent obſtinacy againſt th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+evidence of the word, as the indifferent muſt acknowledge, I
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then openly confeſſe mine
+ignorance and preſumption, knowing full well that in my defaylance, Chriſt
+hath many others, with ſpirituall weapons ſufficiently armed for the worke,
+unto which they are called and excited by reaſon of the combate and
+oppoſition of the contrary minded, which is an eminent effect of a fatherly
+providence ſo pro<g ref="char:EOLhyphen"/>voking truly pious ſoules to awake from that lethall
+ſecurity wherein long tranquillity had plunged them: ſo that if wee counter
+poyſe the good accruing by theſe mens rouſing of their zeale and forces,
+with the loſſe ſuſtained by others ſtragling out of the way, the
+profit will at length ſurmount the prejudice by plain and Apodeicticall
+Argu<g ref="char:EOLhyphen"/>ments againſt all hereticall noveliſts, Phanaticke opinioniſts, and
+Atheiſticall Epochiſts, abounding heerabouts, who have Apoſtarized from
+the primeſt reputation of ſtricteſt profeſſion into the horrible
+darkeneſse of irreligion, making that very thing an unanſwerable argument
+for liberty; from the which, Papiſts, and ſome of our Pro<g ref="char:EOLhyphen"/>teſtant
+Grandees with a ſelfe confounding ſottiſhneſs, do obſtinately
+aſſert compulſive authority: for this point throughly ſifted will
+in<g ref="char:EOLhyphen"/>duce by degrees an orderly diſcuſſion of all theſe articles, wherein
+he differeth from the unanimous conſent of thoſe who are called Or<g ref="char:EOLhyphen"/>thodox,
+and by a cleare reflexion ſerve to refell thoſe hyperephani<g ref="char:EOLhyphen"/>an fancies
+which obey pride as a father; for hee is not to bee found, I feare, amongſt
+the phanaticke or new fangled, who had not rather bee leader of ſome
+ſtragling troupe though in the path of perdition, then an humble Diſciple
+in the ſchoole of truth, evinced by Scrip<g ref="char:EOLhyphen"/>ture evidence. But this and the
+reſt are humbly referred to your Highnes further examination, in a reverend
+regard to your grati<g ref="char:EOLhyphen"/>ous aequanimity &amp; great ability to diſtinguiſh the
+chiefeſt Argu<g ref="char:EOLhyphen"/>ment of a prime magiſtrate, really apprehenſive,
+<hi>imperare liberis,</hi> which very thing to the Princes of this world
+ſeemeth impoſſible.</p>
+            <closer>
+               <signed>
+                  <hi>Your Highneſſes humble ſervant in the
+truth,</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Jackſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="argument">
+            <pb n="1" facs="tcp:45860:3"/>
+            <head>
+               <hi>Argument</hi> 1. <hi>from Act.</hi> 20.26.27. <hi>and
+cap.</hi> 26.22. <hi>with Rom.</hi> 16.26.</head>
+            <p>IF the Apoſtle Paul were obliged to declare the whole counſell
+of God from the Scriptures Propheticall, and that hee did declare according to
+his obligation, then the Apoſtle Paul did declare &amp; preach the bloud of
+Chriſt (which is the bloud of the New Teſtament powred out) to be a proper
+ſacrifice for ſin.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But the Antecedent is evident from the
+places alleadged, <hi>Ergo,</hi> the Conſequent is infallible, <hi>viz</hi>
+that Paul the Doctor of the Gentiles did ſo declare and preach. The
+Conſequence of the Propoſition (which Mr. <hi>Biddle</hi> denied) is proved
+thus.</p>
+            <p>If one of the Prophets have expreſly aſſerted his ſoule a
+ſacrifice for ſin (which is a terme in the Old Teſtament, and in the
+Moſaicall Phraſiology, unto which Iſaiah refer<g ref="char:EOLhyphen"/>reth himſelfe and all
+others, <hi>chap.</hi> 8.20.) aequipollent to that of bloud, then the
+Conſequence is undeniable.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But one of the Prophets hath expreſly ſo
+aſſer<g ref="char:EOLhyphen"/>ted, <hi>Iſa. cap.</hi> 53.10. <hi>Ergo,</hi> the Conſequence is
+undeniable, the Conſequence is unqueſtioned, &amp;c. The Aſſumption was
+proved thus, Deut. 12.23. Take heed that thou eate not the bloud, for the bloud
+is the ſoule, as it was then evi<g ref="char:EOLhyphen"/>denced by the expreſſe words both of the
+Hebrew Origi<g ref="char:EOLhyphen"/>nall, and the Greeke Septuagint or Tranſlation. Againe, by
+Levit. 17.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.14. where the Greek and
+Hebrew Texts were both alleadged again as ſpeaking expreſly, that the
+ſoule of all fleſh is in the bloud &amp;c. And (ſaith the Lord) I have
+given you the bloud upon the Altar to make an ex<g ref="char:EOLhyphen"/>piation <pb n="2" facs="tcp:45860:4"/> of
+your ſoules, for the bloud is that which maketh an expiation for the ſoule,
+which Mr. <hi>Jackſon</hi> then compa<g ref="char:EOLhyphen"/>red with that in Heb. 2.14.17.
+obſerving unto us (by the way) that the ſon of God participated of our
+fleſh and bloud, that hee might bee a mercifull and faithfull High Prieſt
+to propitiate for the ſinnes of the people, and there<g ref="char:EOLhyphen"/>fore that he was an
+high Prieſt, before he came in heaven, according to our nature aſſumed,
+and his bloud ſo aſſumed which was his life, (as touching the fleſh 1.
+Pet. 4.1.) the moſt proper part by which he did ſacrifice himſelfe, or
+ſuf<g ref="char:EOLhyphen"/>fer for us to purge our ſins. To this Mr. <hi>Biddle</hi> had no<g ref="char:EOLhyphen"/>thing
+then to reply, but captiouſly ſought evaſion from the double
+ſignification of the Hebrew word <hi>Aſham,</hi> aſſerting that it
+ſignified ſin; which Mr. <hi>Jackſon</hi> acknowledged, but averring
+withall, that heere it muſt ſignifie a ſacrifice for ſin, without which
+there was no ſence. Mr. <hi>Biddle</hi> there<g ref="char:EOLhyphen"/>fore alleadged that in 2. Cor.
+5 21. which hee boaſted to clear: but ſo they brangled rather then
+diſputed out the time. But preſently after Mr. <hi>Jackſon</hi> told us,
+that to cleare that Text from all or any ſuch ſophiſticall evaſion, it
+was needfull to conſider the Idiom of the Hebrew ex<g ref="char:EOLhyphen"/>preſſion; and
+ſecondly to weigh thoſe two words Levit. 7. <hi>Aſham</hi> and
+<hi>Chattah,</hi> which are in the Lexicons promiſcu<g ref="char:EOLhyphen"/>ouſly uſed, in the
+very ſame acceptions, though there ſee<g ref="char:EOLhyphen"/>meth to be a difference in the
+degree of Guilt, and in this difference the aggravation lieth upon
+<hi>Aſham,</hi> Levit. 7.</p>
+            <p>Then to clear this by Apodeicticall Argument. If theſe two words
+<hi>Aſham</hi> and <hi>Chattah</hi> doe commonly according to the Idiotiſme
+of the Hebrew, ſignifie and deſigne, ſome Calfe, Bullock, or ſuch like
+creature, as a ſacrifice for ſin, and that Mr. <hi>Biddles</hi> evaſive
+Allegation, be ſottiſhly wic<g ref="char:EOLhyphen"/>ked, <pb n="3" facs="tcp:45860:4"/> and againſt the
+expreſſe word; then the Text in Iſai. 53.10. is full &amp; clear enough
+to prove the bloud of Chriſt a proper ſacrifice for ſin.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But theſe two words &amp;c. doe commonly
+ac<g ref="char:EOLhyphen"/>cording to the Idiotiſme of the Hebrew (and the phraſe of the Spirits
+expreſſion) ſignifie a ſacrifice for ſin, and de<g ref="char:EOLhyphen"/>ſigne ſome
+Calfe, or the like, for the ſame purpoſe, as may clearly appear by Levit.
+7.1.</p>
+            <p>This is the Law <hi>(Haaſham)</hi> not of ſin, but of the
+ſacri<g ref="char:EOLhyphen"/>fice for ſin, or of the treſpaſſe offering &amp;c. with Exod.
+29.36. Thou ſhalt make the Calfe <hi>(Chattah)</hi> not ſin, which were
+abſurd, but an offering for ſin, &amp;c. with Levit. 16.6. and 11.
+verſes. And <hi>Aaron</hi> ſhall bring, or make to bee brought, (not the
+Calfe ſin) but as the Septuagint renders it, the Calfe the ſacrifice for
+ſin, &amp;c. So alſo in verſe 11. and ſeverall other places, but
+theſe may ſuffice, to ſhew the vanity of Mr. <hi>Biddles</hi> evaſion:
+and withall that S. <hi>Pauls</hi> phraſe 2. Cor. 5.21. (which Mr.
+<hi>Biddle</hi> catched at to coun<g ref="char:EOLhyphen"/>tenance his captious eſcape) is a meer
+Idiotiſme of the He<g ref="char:EOLhyphen"/>brew tongue. He hath made him ſin, that is to ſay, a
+ſa<g ref="char:EOLhyphen"/>crifice for ſin, by laying all our iniquities upon him, Iſai. 53 6.
+without the which he could never become a ſacrifice for ſin, nor be made a
+curſe, as it is ſaid Gal. 3.13. and was intimated by Mr.
+<hi>Jackſon,</hi> who to avoyd the prolixity of a criticall contention, in
+this or any other of like nature, will refer himſelfe to any learned
+Theologue, (or becauſe they cannot endure the name of Divines) to any able
+man in theſe originall languages.</p>
+            <p>Secondly, that Mr. <hi>Biddles</hi> evaſive Allegation, is
+ſottiſh<g ref="char:EOLhyphen"/>ly wicked, and againſt the word, may appear: 1. for then eyther
+the eſſence of the ſoul muſt be made ſin, quite con<g ref="char:EOLhyphen"/>trary 
+<pb n="4" facs="tcp:45860:5"/> to all Philoſophy or Divinity, (which alwayes
+aſſer<g ref="char:EOLhyphen"/>teth ſin to be an Ataxie or privation) except we ſhould re<g ref="char:EOLhyphen"/>vive
+the monſtrous phantaſie of the Manichees, or the ſcan<g ref="char:EOLhyphen"/>dalous imagination
+of <hi>Mathias Illiricus,</hi> ſo much ſcoft at by Cardinall
+<hi>Bellarmine.</hi>
+            </p>
+            <p>Or ſecondly made the ſoule ſin, <hi>i. e.</hi> ſinfull, as
+one of Mr. <hi>Biddles</hi> Proſelites, with a Legall or Law driving Gravity,
+hath averred, <hi>viz.</hi> that Chriſt died for his owne ſinnes, which is
+againſt the expreſſe Text of Heb. 7.26. 1. Pet. 2.22. And this very place
+in 2. Cor. 5.21. <hi>ton me gnonta amartian,</hi> that hath not known ſin;
+that is to ſay, hath not ſinned, or hath no experience of ſin. For ſo
+Chriſt is ſayd to learn in matter of ſufferings; and we alſo to know
+when to try by experience what we had by ſpeculation.</p>
+            <p>
+               <hi>Ergo,</hi> that text in Iſaiah 53.10. is clear enough to
+prove the bloud of Chriſt a proper ſacrifice, from what hath been ſayd in
+Levit. and Deuter. to evidence that the expreſſion of the ſpirit in
+Iſai 53.10. doeth intend the life and ſo the bloud, by the terme of
+ſoule. I will but only adde our Sa<g ref="char:EOLhyphen"/>viours own language in John 10.17.18. The
+Father loveth me becauſe I lay down my life, or my ſoule, (as it is in the
+Originall) or my bloud, according to the Moſaicall Idio<g ref="char:EOLhyphen"/>tiſme, the law and
+rule of Propheticall ſpeech, Iſai 8.20. which was the bloud of the new
+Teſtament powred out, a proper ſacrifice, offered by the command of his
+father, who made him an high Prieſt, as ſhall bee proved abun<g ref="char:EOLhyphen"/>dantly.</p>
+         </div>
+         <div n="2" type="argument">
+            <pb n="5" facs="tcp:45860:5"/>
+            <head>
+               <hi>Argument</hi> 2. <hi>From Heb.</hi> 9.23.</head>
+            <p>IF the opening of the entrance into Heaven Heb. 9, 11 12, the
+conſecrating of the ſame, Hebr, 10, 19, 20, and the purging of thoſe who
+enter, Heb, 9, 14, bee by the blood of Chriſt, or Chriſts owne bloud, then
+the bloud of Chriſt, or Chriſts owne blood, muſt needes bee one of
+thoſe better ſacrifices, Heb, 9, 23, (or that better ſacrifice)
+(anſwering and exceeding thoſe of the Law) whereby the blot of ſin is
+purged, and the wrath of God is pacified.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But all theſe were by the blood of
+Chriſt, or by Chriſts owne blood; as appeareth plainly from the very
+letter, <hi>Ergo,</hi> the bloud of Chriſt muſt needs be one of thoſe
+better ſacrifices, or that better ſacrifice.</p>
+            <p>The connexion or conſequence of the propoſition is
+in<g ref="char:EOLhyphen"/>fallible, by the whole coherence of the Apoſtles diſcourſe in that
+Chapter. So that no wreſted interpretation can beare water againſt the
+cleare and unforced evidence of the word. What Mr. <hi>Biddle</hi> hath ſaid,
+is very obſcure and incertaine, what hee can ſay to intangle the evidence
+of this argument let him briefly diſcover, ſo as we may exa<g ref="char:EOLhyphen"/>mine the truth
+of his conception, and we ſhall either fair<g ref="char:EOLhyphen"/>ly accept, or fully refell it.
+But let every ſound Chriſtian diligently obſerve, how the ſpirit of
+Chriſt in that part endeavoureth an exact parallell betweene the typicall of
+the Old, and the true bloud of the New Teſtament even to the word of
+ſprinkling Heb. 9, 20, 21, with cap. 10, 22: and to that purpoſe ſpeaketh
+of purging heavenly things, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make
+the blood; of Chriſt anſwerable to that of Bulls
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Goats, which purged (alſo) the
+holy of holies. Into <pb n="6" facs="tcp:45860:6"/> which though the people never entred,
+yet thither (it ſee<g ref="char:EOLhyphen"/>meth) their uncleaneſſe extended, Levit. 16, 14, 16,
+17.</p>
+            <p>Even ſo as if the impurity of our nature, and its operati<g ref="char:EOLhyphen"/>ons,
+had ſo penetrated the Heavens, &amp; made them unclean as it is phraſed
+(Job, 15, 15,) that they alſo may be purged, together with the true antitype
+of the Miniſteri all veſſells. But the Argument is cleare without
+examaning what <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth intend: which is not the queſtion
+now, (ex<g ref="char:EOLhyphen"/>cept one would cavill. And then hee may conſider Epheſ, 2.6. with
+Coloſſ. 1.20. And ſo conceive aright without a Corrector) no more then
+what is meant by the eternall ſpirit, cap, 9, 14, which in due place, ſhall
+be declared, to deſigne ſomething Antecedent to the powring forth of that
+blood of the New Teſtament, Mat, 26, 28, and to intend the very deity of
+Chriſt which is eternall, and did ſo offer its owne blood Act. 20, 28, But
+let him avoid ſuch digreſſi<g ref="char:EOLhyphen"/>ons &amp; deale only with the Argument, as it
+ſtandeth direct<g ref="char:EOLhyphen"/>ed unto him.</p>
+         </div>
+         <div n="3" type="argument">
+            <head>
+               <hi>Argument</hi> 3. <hi>Ex Hebr.</hi> 9, 26, <hi>with
+Heb.</hi> 7, 27, 1 <hi>Cor.</hi> 5, 7, <hi>Epheſ.</hi> 5.</head>
+            <p>IF Chriſt could not be a ſlain ſacrifice, as the word
+ſig<g ref="char:EOLhyphen"/>nifieth, but by the wounding of his body, and powring out of his bloud,
+then the bloud of Chriſt ſo powred out is much more properly ſtiled a
+ſacrifice.</p>
+            <p>The reaſon is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But Chriſt could not be (as the word
+ſignifi<g ref="char:EOLhyphen"/>eth) a ſlaine ſacrifice, but by the wounding of his body, and
+powring out of his bloud.</p>
+            <p>
+               <hi>Ergo,</hi> the bloud of Chriſt ſo powred out is much more
+properly ſtiled a ſacrifice.</p>
+            <p>
+               <pb n="7" facs="tcp:45860:6"/>I never had <hi>Socinus</hi> his writings, nor
+any time to read Mr. <hi>Biddles</hi> Books, having my ſpirit oppreſſed,
+and memo<g ref="char:EOLhyphen"/>ry burdened with importunate buſineſſe of far baſer na<g ref="char:EOLhyphen"/>ture,
+and therefore according to <hi>Ariſtotle,</hi> more Narcotical to all
+intellectuall abilities; ſuch pettifogging Mammo<g ref="char:EOLhyphen"/>niſts, as pride
+themſelves and fatten their inſulting envy if they can captive poore
+ſuiters and intangle Scholars in the wofull Labyrinth of Law practiſe, are
+ſpitefull enemies of the publike good, no leſſe then of truth and piety.
+Hence it is, that I cannot certainly ſay, how farre this Argument reacheth
+him; for his Anſwer was neither directly nor di<g ref="char:EOLhyphen"/>ſtinctly returned, but he
+ſeemed to me by ſhuffling ſo to o<g ref="char:EOLhyphen"/>verſhadow the Text as if Chriſt
+were not a ſacrifice in be<g ref="char:EOLhyphen"/>ing wounded upon the Croſſe, and ſlain heer
+on earth, but only by his perſonall appearance in heaven, where he ever
+liveth to make &amp;c. Heb. 7, 25. Therefore that this Argu<g ref="char:EOLhyphen"/>ment may clearly
+reach him, and conclude abſolutely a<g ref="char:EOLhyphen"/>gainſt him, I ſhall frame another
+Syllogiſme from Eph. 5, 2, Heb. 9, 26, cap. 7.27, with 1 Cor. 5, 7.</p>
+            <p>That which is expreſſed in the preterperfect tenſe as a
+thing done on earth, in the ſight and for the example and imitation of all
+true Chriſtians, (in one kind of way) and which could not be effected but by
+ſufferance, which was but once, nor could nor needed to bee reiterated, that
+can never be interpreted truly, of his perſonall appearance in heaven, to
+make interceſſion for us, but muſt needs intend ſome proper ſacrifice
+of himſelfe heere upon the earth.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But that Chriſt ſhould be a ſlaine or
+bloudy ſacrifice unto death, (as Divine Juſtice required for due
+ſatisfaction, and the word ſignifieth) 1 Cor. 5, 7 is expreſſed in the
+preterperfect tenſe, as a thing done in the ſight of <pb n="8" facs="tcp:45860:7"/>
+men, and for their example and imitation, in a kind, Eph. 5.2, which could not
+be but by ſufferance, and was but once, nor could or needed to be reiterated,
+Heb. 9, 25, 26, Heb. 7, 26, as the very letter of theſe Texts doth clearely
+intimate. <hi>Ergo,</hi> that Chriſt ſhould be ſuch a ſlaine
+Sacri<g ref="char:EOLhyphen"/>fice, or bloudy unto death &amp;c. can never be interpreted of his
+perſonall appearance in heaven, by the act of interceſſi<g ref="char:EOLhyphen"/>on, but muſt
+needs intend ſome ſacrifice heere on earth, which is that of the nature
+aſſumed, both of body and bloud eſpecially, ſo often inculcated.</p>
+            <p>The Propoſition is undeniable from the Law of Diſſen<g ref="char:EOLhyphen"/>tanees,
+or rather Diſparataes; for of Chriſts interceſſion in heaven, how can
+it be ſayd, (hee hath given himſelfe for us, as a ſlaine ſacrifice)
+which the word <hi>thuſia</hi> there ſigni<g ref="char:EOLhyphen"/>fieth, being derived of
+<hi>thuein</hi> to kill; as in Hebrew <hi>Zebach</hi> a ſlain ſacrifice of
+<hi>Zabach (Mactare,</hi> to kill) which none will contradict, not diſpoſed
+to cavill. Secondly, how can that giving or preſenting of himſelfe, be
+preſented to us for ex<g ref="char:EOLhyphen"/>ample, ſeeing in that action hee never fell under
+humane ſight or obſervation? Thirdly, in that ſenſe it may be ſaid,
+he will give himſelfe for us, again and againe, ſo often as we ſtand in
+need of the ſpirit, and of ſpeciall application in times of perillous
+tentation, but cannot as a ſlain ſacri<g ref="char:EOLhyphen"/>fice; for that death can have no
+more dominion over him, nor he any more to ſuffer in the fleſh, Rom. 6, 9,
+with 1 Pet. 4, 1.</p>
+            <p>For the <hi>Aſſumption,</hi> (called the <hi>minor</hi>) it is
+evident in e<g ref="char:EOLhyphen"/>very part of it, from the expreſſe words of the Texts,
+re<g ref="char:EOLhyphen"/>calling but to mind the true ſignification of <hi>thuſian,</hi> a
+ſlain ſacrifice, which may bee cleared from Matthew 22, 4. 1 Cor. 5, 7.
+Mine oxen and my fatlings <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſlaughte<g ref="char:EOLhyphen"/>red <pb facs="tcp:45860:7"/> 
+               <pb facs="tcp:45860:8"/> 
+               <pb n="9" facs="tcp:45860:8"/> &amp;c, What in Scripture were called
+Sacrifices, eſpe<g ref="char:EOLhyphen"/>tially explatory, were to be deſtroyed, If living
+creatures, by ſlaughter (as other things by combuſtion, and ſome by
+effuſion) and the bodies of thoſe offered for ſin, to be bur<g ref="char:EOLhyphen"/>ned without
+the Camp, which is the reaſon why ſome one in <hi>Euſeb.</hi> called it
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a fume, or exhalation, which aſcendeth from the
+burning: when God by inſpiration did order <hi>Abel</hi> and others
+ſucceſſively to officiate by expi<g ref="char:EOLhyphen"/>atory ſacrifice, he intended but to
+ſhadow out the ſupream ſacrifice of all to be expected. <hi>Dan.</hi> And
+therfore not on<g ref="char:EOLhyphen"/>ly the uſe of the thing was to be offered unto God, but
+alſo the very life and ſubſtance of it, which occaſioneth this word and
+phraſe, Epheſ. 5.2. in correſpondence to the types. And becauſe I would
+have Arguments to ex<g ref="char:EOLhyphen"/>ceed in weight rather then number, Mr. <hi>Biddle</hi> may
+for fur<g ref="char:EOLhyphen"/>ther illuſtration take notice, that the Apoſtle in Heb. 8.3.
+plainly gathereth and concludeth, that hee could not have been an high
+Prieſt, except he had that ſacrifice which he could offer, <hi>viz</hi> our
+humane nature both of body and bloud <hi>Vid. Gen</hi> 22 7.</p>
+            <p>That Divine Juſtice required ſuch a ſacrifice, for due
+ſatisfaction, may be eaſily made manifeſt afterwards, and illuſtrated
+alſo from the eminent inſtance of <hi>Zaleucus<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>This third Argument is coincident with that which I uſed upon
+our former day of Debate, <hi>Febr.</hi> 18. 1654. <hi>viz.</hi> whatſoever
+agreeth to the whole principally in reſpect of any eſſentiall part, is
+more properly praedicated of that eſ<g ref="char:EOLhyphen"/>ſentiall part, then it is of the
+whole.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But to be a proper ſacrifice expiatory,
+agree<g ref="char:EOLhyphen"/>eth to the perſon of Chriſt, 2. Cor. 2.10. by reaſon of the humane
+nature aſſumed, <hi>viz.</hi> the body Heb. 10.10 and the 
+<pb n="10" facs="tcp:45860:9"/> bloud eſpecially, Heb. 9, 22, with Math. 26, 27, 28.</p>
+            <p>
+               <hi>Ergo,</hi> the bloud or the body is more properly ſtiled a
+ſa<g ref="char:EOLhyphen"/>crifice.</p>
+            <p>This Argument thus urged, intangled us in a tedious and
+diſorderly conteſt before the non-intelligent; Mr. <hi>Bid<g ref="char:EOLhyphen"/>dle</hi> denying
+the Propoſition, and giving an inſtance againſt it, which ſeemed too
+groſſe and inſufficient, ſo that at length by a compariſon I brought
+him off it, to the ac<g ref="char:EOLhyphen"/>knowledgement of Theologicall axiome, <hi>viz.</hi> that
+if any one ſhould call him or me Gowry fellow, in reference to a Gowty legge,
+then Gowtineſſe were more properly prae<g ref="char:EOLhyphen"/>dicated of that integrall part,
+then of the whole, &amp;c. So likewiſe for the other alleadged, <hi>viz</hi>
+that whoſoever de<g ref="char:EOLhyphen"/>nominateth any thing ſo, or ſo, is much more properly
+ſuch then that which it ſo denominates. If <hi>Apollos</hi> for his tongue
+be entituled an eloquent man, then his tongue is much more properly ſo
+intituled. I hope Mr. <hi>Biddle</hi> will not balk the beſt ſence of what
+is alleadged.</p>
+         </div>
+         <div n="4" type="argument">
+            <head>
+               <hi>Argument</hi> 4.</head>
+            <p>SEeing the ſlight eſteem Mr. <hi>Biddle</hi> had of Divines, I
+durſt not alleadge that axiomaticall Aſſertion, of the moſt
+Dianoeticall Doctor, amongſt all thoſe Latine lights, who from the Church
+have ſhined unto the world in life and Doctrine, however caſually by
+increaſing ſnuffes obſcured, <hi>viz.</hi> that the paſſion and death
+of Chriſt, is a moſt true and perfect ſacrifice. Which Mr.
+<hi>Biddle</hi> ſee<g ref="char:EOLhyphen"/>meth (for as yet I have found no clearneſſe, or
+conſtancy in his aſſertions) to make (together with the blood powred out)
+but onely as certaine previous actions to that ſacrifice <pb n="11" facs="tcp:45860:9"/>
+or oblation (without any diſtinction of theſe words uſed by him, in my
+hearing) which was not made upon the Croſſe when hee loſt his owne life;
+But onely by his pre<g ref="char:EOLhyphen"/>ſentation in Heaven where hee liveth for ever. To which
+purpoſe (as I remember) he uſed an illuſtrating aſſertion,
+<hi>viz.</hi> that the bringing and killing of the beaſt, the powring out of
+the bloud, and the burning of the body, were not the ſacrifice, but the
+taking of the bloud of the Goat, or Bullock, &amp; ſo making an atonement by
+carrying it into the Holieſt of all &amp;c. Therfore ſome things heere, had
+need be interpoſed, not to increaſe the number, or trouble the tenour of
+our Diſcourſe uſed in our Diatribe, but onely to clear the candle of
+whatſoever obſcureth, or may entan<g ref="char:EOLhyphen"/>gle the inexpert in the word of
+righteouſnes, Heb. 5.13.</p>
+            <p>Wee muſt proceed to a fourth Argument againſt that pretence of
+ſome previous actions, as diſtinct from, and therefore not formally proper
+to the ſacrificing.</p>
+            <p>If the preſenting of the Beaſt before the Tabernacle, made it
+a ſacrifice, the killing and powring out of the bloud were the proper
+ſacrificing of that beaſt; and then that the taking of the bloud, and the
+ſprinkling of it about the Altar of Incenſe in the holy place, were only a
+typicall circumſtance, to ſhew the efficacy of that bloud formerly
+ſacrificed &amp;c. and ſo to ſhadow out, Heb. 10, 1. the vertue and
+efficacy of Chriſts bloud once offered, by which he en<g ref="char:EOLhyphen"/>tred, (as it is
+aſſorted already) and now ever liveth to in<g ref="char:EOLhyphen"/>tercede for us, ſo to
+obtaine, for our conſolation, the Holy Ghoſt, in our greateſt calamities
+of conſcience. Then the denying of Chriſt to bee a proper ſacrifice by
+aſſuming our nature, and preſenting himſelfe in the ſame heer upon
+the earth, Heb. 10, 6, 7, 8, 9 and eſpecially by powring out his 
+<pb n="12" facs="tcp:45860:10"/> bloud upon the Croſſe, Heb. 10, 10, as if yet hee were
+no ſacrifice for all that (nor any purgative efficacy in his bloud ſo
+offered) but only by the offering and preſentation of his perſon in heaven,
+is a moſt abominable ſlighting of the bloud of God, Act 20, 28, and
+brainſick errour, as ſhall be evidenced.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But the former part of the Antecedent is
+moſt evident from thoſe Books of the Law, Exod. Levit. Numbers.</p>
+            <p>And the other clauſe or part of it, is apparently proved by what
+is already alleadged from Heb. 9.</p>
+            <p>
+               <hi>Ergo,</hi> the Conſequent is concluſive and
+infallible.</p>
+            <p>Truth like vertue cleareth its way as it goeth; ſo heere I hope.
+And to this purpoſe on <hi>Febr.</hi> 18. I inſinuated (a<g ref="char:EOLhyphen"/>gainſt his
+myſticall aſſeverations) from Heb. 9, 27, that there was a vaſt
+diſparity between theſe two terms, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to offer, and to appeare, but it was not reſented or
+obſerved, except by himſelfe, though the Apo<g ref="char:EOLhyphen"/>ſtle in that Chapter,
+ſeparateth the apparition from the oblation far enough, bringing in, and
+eſtabliſhing the one, upon the by paſſed efficacy of the other, (which
+is already e<g ref="char:EOLhyphen"/>videnced;) and upon his appearing, utterly denying all further
+oblation. Obſerve but the Text, and you muſt needs ſee it, Heb. 9, 24,
+25, not that hee ſhould offer him<g ref="char:EOLhyphen"/>ſelfe, &amp;c. though ſome may eaſily
+ſee a difference between ſacrifice and oblation; for that ſome things may
+be offered which are not ſacrificed, yet are they promiſcuouſly uſed in
+reference to the perſon of Chriſt, Eph. 5, 2, Heb. 10, 10, with cap 9,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. But neither the Holy Ghoſt,
+nor the Greeks, I trow, did ever uſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> an
+oblation, for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> an apparition. If they did,
+then produce an <pb n="13" facs="tcp:45860:10"/> inſtance from ſome Claſſick
+Author, for I ſuppoſe you a<g ref="char:EOLhyphen"/>ble for ſuch a purpoſe, if it be
+poſſible for any to find ſuch a place.</p>
+            <p>Laſtly, to clear all this (upon which I have interpoſed
+between the Arguments) briefly: If Chriſts entring once by the ſacrifice of
+himſelf, that is to ſay, of his own bloud, Heb. 9, 11, 12, be holden forth
+by the ſpirit, as in a certain Antitypicall oppoſition, onely proper in
+being oppoſed to the entrance of the High Prieſt, each yeere with others
+bloud, Heb. 9, 25.26. with v. 11, 12, then the ſpirit never intended to teach
+us any comparative oppoſition between Chriſts oblation, and the high
+Prieſts entrance into the holieſt of all; as if Chriſt could not offer or
+ſacrifice him<g ref="char:EOLhyphen"/>ſelfe till hee came in Heaven, the oblation conſiſting in
+Chriſts entrance, by which he became to be the high Prieſt of our
+profeſſion, as Mr. <hi>Biddle</hi> ſeemeth of opinion, though that
+overthroweth the proportion and long cohe<g ref="char:EOLhyphen"/>rence of the parallell ſo apt and
+Grammatically plain.</p>
+         </div>
+         <div n="5" type="argument">
+            <head>
+               <hi>Argument</hi> 5. <hi>From Rev.</hi> 3, 6, 9, <hi>with
+John</hi> 1, 29, 1 <hi>Joh.</hi> 1, 7, <hi>and</hi> 1 <hi>Pet.</hi> 1, 18, 19,
+<hi>with Rom.</hi> 3, 25.</head>
+            <p>THat which purgeth and redeemeth from ſin both Poſitively and
+Negatively, and effectually reconci<g ref="char:EOLhyphen"/>leth us unto God upon our faith or
+application, that muſt needs be offered as a true and proper ſacrifice, to
+the ſame end and purpoſe.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But the bloud of the Lambe, the Lord
+Jeſus, purgeth and redeemeth from ſin both Poſitively and Ne<g ref="char:EOLhyphen"/>gatively,
+and effectually reconcileth us to God, upon our ſaith or application.</p>
+            <p>
+               <pb n="14" facs="tcp:45860:11"/>
+               <hi>Ergo,</hi> The bloud of the Lamb, the Lord
+Jeſus, was offe<g ref="char:EOLhyphen"/>red as a proper ſacrifice to the ſame end and
+purpoſe.</p>
+            <p>The Propoſition or <hi>major,</hi> as they call it, is
+manifeſt from the third Book of Moſes, declaring the end and in<g ref="char:EOLhyphen"/>ſtitution
+of the ſin or treſpaſſe offerings, Levit. 5, 5, 6, 7, 8, 9. with
+verſes 15, and 16. So alſo cap. 6, 6, 7. with cap. 9.7, 8, 9, 10, 11, 15.
+and cap. 16.16, 7, 8, 9. and verſes 11 12, 13, 14. ſo he ſhall not die.
+So in verſe 16, 17, 18, 19. All which and divers other places make it evident
+that theſe were ſa<g ref="char:EOLhyphen"/>crifices inſtituted for ſuch ends and purpoſes,
+becauſe they did ſo purge and make atonement, that is to ſay, reconcile
+and redeem from death temporall, according to the tenour of that Covenant,
+under which the people then ſtood, though in compariſon they were but
+carnall ordinances, extending only to the purifying of the fleſh, Heb. 9, 1,
+13.</p>
+            <p>The <hi>Aſſumpt.</hi> or <hi>minor,</hi> as he calls it, is
+clear from thoſe places alleadged, Revol. 5, 6, 9. Joh. 1, 29. 1 Joh. 1, 7.
+Heb. 9, 15. 1. Pet. 1, 18, 19. Rom. 3.25. with Eph. 1, 7.</p>
+            <p>
+               <hi>Ergo,</hi> The Concluſion is infallible and undeniable.</p>
+            <p>To the <hi>Aſſumption</hi> Mr. <hi>Biddle</hi> ſayd, that
+the bloud of Chriſt had an influence upon the remiſſion of ſins, and
+to<g ref="char:EOLhyphen"/>wards reconciliation. But what is this influence think we? For wheras he
+would and did tie me to the expreſſe words of the text, this word is
+ſtrange to the text, and ſerving only for ſome untouth interpretation.
+Doth it imply any ſuch formall object of faith, as is the bloud of Chriſt,
+Ro. 3, 25. unto which, (as it is the bloud of God, Act. 20, 28. faith relateth
+with an infallible adherence, as the onely prime foundation, in effect, of all
+our conſolation heer, and of all our future hopes heerafter; elſe it is but
+a vain term to avoid the evidence of the text. An influence, and is that 
+<pb n="15" facs="tcp:45860:11"/> all? for ought I yet underſtand by that term, he might
+ſay, that Chriſts riding upon an Aſſe, hath or had an influence upon
+the Jewes, and our reconciliation; therefore let him explain, if he be not to
+ſeek, what we ſhould conceive by it; for upon his clear explication, I
+ſhall willingly confeſſe mine own weakneſs, if I doe not make his
+conceit in this very thing, appear ſo abſurd and nonſenſicall, to any
+im<g ref="char:EOLhyphen"/>partiall man, that may bee found, that it ſubverteth the great myſtery
+of our moſt holy faith; upon which as I told them, dependeth all our
+conſolation heer, and all hopes of ſalvation hereafter. Of the which
+myſtery of Godlineſſe, truly ſo ſtiled, Mr. <hi>Biddle</hi> ſeemeth
+in this novell imagina<g ref="char:EOLhyphen"/>tion, either groſly ignorant, or prophanely
+contemptuous.</p>
+            <p>Secondly, afterwards and <hi>obiter,</hi> as wee uſe to ſay,
+Mr. <hi>Biddle</hi> alleadged that of Numb. 19. concerning the red Cow, &amp;c.
+concluding from thence, as I thought, that a thing may be purgative of ſin,
+and yet no ſacrifice. I did not then cauſe the place to be read or
+examined, for I did not remember the originall word what it would bear, nor did
+I deem it pertinently urged at that inſtant. But ſo ſoon as ever it came
+in my mind, the ſame night when I came at my lodging, I looked for it, and
+the firſt Bible I opened rendred it expreſly, a ſin offering: and ſo it
+is by the two laſt words of the Hebrew text, Num. 19, 9. yea all the
+cir<g ref="char:EOLhyphen"/>cumſtances doe there ver. 2, 3, 4, 5. ſo concur to conſtitute a
+formall ſacrifice, that I hope Maſter <hi>Biddle</hi> in his ſerious
+thoughts will acknowledge it. And that therefore mine Argument is in that part
+of this Aſſertion irrefragable, <hi>viz.</hi> the bloud of Chriſt
+therefore a proper ſacrifice, becauſe purgative, &amp;c.</p>
+            <p>
+               <pb n="16" facs="tcp:45860:12"/>Now leſt he ſhould avoid theſe two
+Arguments (as he ſeemed to indevour) by making them only previous acti<g ref="char:EOLhyphen"/>ons,
+to the offering and preſenting of his perſon in heaven, this may be fairly,
+firmely, and briefly oppoſed from the words of the texts alleadged,
+<hi>viz.</hi> If the Scripture do im<g ref="char:EOLhyphen"/>ply the perſon of the Mediatour, as
+praevious to thoſe acti<g ref="char:EOLhyphen"/>ons of ſacrificing his own body and bloud according
+to the cleareſt conceptions of the moſt Catholike Doctors in the Church of
+Chriſt, then theſe actions can never in common apprehenſion be conceived
+and taken as praevious onely to the perſons oblation or preſentation of
+himſelfe in heaven, (which Mr. <hi>Biddle</hi> taketh as equipollent terms
+from Math. 2.11.) nor by the curious neyther, without ſome palpable
+affectation of novelty and ſingularity.</p>
+            <p>But the Antecedent is very true: <hi>ergo,</hi> the Conſequent.
+The Aſſumption is clear from Heb. 1.3. where the Greek Idiom is very
+obſervable; when he had purged our ſins, by himſelfe, Heb. 9.26. Col. 1,
+20. 1. Cor. 5.7. Epheſ. 5, 2. or the offering himſelfe, hee did or hath
+ſate down at the right hand &amp;c. And how can hee offer himſelfe ſo,
+but by the yeelding of his body, and the powring out of his bloud, Tit. 2, 14.
+Heb. 10. 10. Matth. 26.28. Heb. 9.14.</p>
+            <p>And therefore is the ſpirit ſo exact in expreſſion, to
+wit, that he might reconcile unto himſelfe, having made peace, through the
+bloud of his Croſſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> through him, refer<g ref="char:EOLhyphen"/>ring all unto
+his perſon, as alſo Epheſ. 2.13.14.15.16. To ſay nothing of the moſt
+punctuall correſpondency between the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo
+emphatically uſed, Heb. 2.17. to an<g ref="char:EOLhyphen"/>ſwer the Hebrew <hi>Caphar,</hi> ſo
+often uſed in the old Teſta<g ref="char:EOLhyphen"/>ment, for purging or expiating, to ſhew the
+perfect accom<g ref="char:EOLhyphen"/>pliſhment of typicall ſacrifices in that true bloud of the 
+<pb n="7" facs="tcp:45860:12"/> Covenant, ſo ſprinkled or powred out, from ſuch a
+perſon, as is called our Paſſeover, 1. Cor. 5.7. Nor ſhould Mr.
+<hi>Biddle</hi> ſlight, but reverently examine whatſoever ſuch have well
+ſayd according to the word, as we have reaſon to ſtile able Doctors of
+Divine myſteries, and graciouſly inſtru<g ref="char:EOLhyphen"/>cted in the main; for
+notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding any accidental errour, yet none of us can without higheſt
+impudence, thinke our ſelves comparable to them in vertue or piety, knowledge
+or judgement, wiſdome or ſufficiency. I wiſh therefore he would peruſe
+and ſeriouſly ponder, how <hi>Auſten</hi> expreſſeth himſelfe upon
+thoſe foure things conſiderable in every ſa<g ref="char:EOLhyphen"/>crifice. 1. To whom. 2. For
+whom. 3. By whom. 4. What. <hi>Lib. de Trinit.</hi> 4. <hi>cap.</hi> 14. So, I
+think, hee might ſee enough for his ſatisfaction, and without any ſhame
+receive it from ſuch an Authour.</p>
+         </div>
+         <div n="6" type="argument">
+            <head>
+               <hi>Argument</hi> 6. <hi>From Heb.</hi> 13.20.</head>
+            <p>VVHatſoever is bloud of the Covenant pow<g ref="char:EOLhyphen"/>red out and
+ſprinkled, the ſame is ſacrificed bloud, or bloud of the ſacrifice,
+ſhed for ob<g ref="char:EOLhyphen"/>tayning the end of the Covenant, that is to ſay, remiſſion
+of<g ref="char:EOLhyphen"/>fins, as appeareth by Levit. 7, 2. cap. 5, 9. cap. 9<g ref="char:punc">▪</g>9 cap. 8, 15.
+compared with Hebr. 9, 19.20, 22.</p>
+            <p>
+               <hi>Aſſumpt.</hi> But the bloud of Jeſus Chriſt
+ſprinkled or powred out upon the Croſſe, is the bloud of the
+everlaſting Covenant, ſhed for the remiſſion of ſins and iniquities,
+ne<g ref="char:EOLhyphen"/>ver to be remembred any more, as appeareth plainly from theſe texts, Heb.
+1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 20 Matth.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6, 28. Heb. 8, 6, 12.
+<hi>Ergo,</hi> the bloud of Chriſt (ſo ſprinkled and powred out) was
+ſa<g ref="char:EOLhyphen"/>cificed bloud or bloud of the ſacrifice.</p>
+            <p>
+               <pb n="18" facs="tcp:45860:13"/>This Argument was ſlightly offered
+<hi>Feb.</hi> 25. 1654. in way of refelling Mr. <hi>Biddles</hi> fancied
+evaſion, from Argument 2. and eſpecially that which is Argument 5. by
+ſaying that it cleanſed and reconciled, not as a ſacrifice, but as the
+bloud of the Covenant, &amp;c. which ſeemeth a cold diſtinction without a
+difference. But let him anſwer diſtinctly upon deliberation, and if hee doe
+not acknowledge this Argu<g ref="char:EOLhyphen"/>ment as Apodeicticall, I doubt not but to make it
+evident, that he is groſly ignorant of the New Teſtament, accord<g ref="char:EOLhyphen"/>ing to the
+true nature and tenour of it, which rightly un<g ref="char:EOLhyphen"/>derſtood, muſt needs
+deſtroy or ſubdue thoſe hereticall novelties, which exalt themſelves
+againſt the truths of Je<g ref="char:EOLhyphen"/>ſus.</p>
+         </div>
+         <div n="7" type="argument">
+            <head>Argument <hi>7.</hi> Gal. <hi>2.</hi> ult.</head>
+            <p>EIther the bloud of Chriſt (ſo ſprinkled and powred out) was
+a proper ſacrifice, neceſſarily required for due ſatisfaction to divine
+Juſtice, or God the Father is to be accuſed of monſtrous cruelty, in ſo
+giving up his ſon, Ioh. 3, 15. and the ſon himſelfe of temerity, in that
+he would bee made a curſe, Gal. 3, 13. and expoſed to re<g ref="char:EOLhyphen"/>proach and
+puniſhment, without a cauſe, Gal. 2.21, by that ſhamefull death of the
+Croſſe, Philip. 2, 6, 7, 8.</p>
+            <p>
+               <hi>Aſſumption.</hi> But God the Father is not to be ſo
+accuſed &amp;c. nor the ſon neither, nor can bee without higheſt
+Blaſ<g ref="char:EOLhyphen"/>phemy.</p>
+            <p>
+               <hi>Ergo,</hi> the blood of Chriſt, ſo ſprinkled and powred
+was a proper ſacrifice, neceſſarily required for due ſatisfaction to
+divine juſtice, and to make good his truth; which is the reaſon why he hath
+been made the ſervant of circumciſion. <pb n="19" facs="tcp:45860:13"/> Rom. 15.8,
+ſubmitting himſelfe by our nature, aſſumed unto circumciſion, that
+ſo under the Law he might anſwer the Law for us, and by death deſtroy him
+who had the power of death: all which evidently appeares from theſe texts,
+Gen. 2, 17, Rom, 6, 23. with Rom, 8, 32, 33, 34, and Gen. 3, 15, with Heb. 2,
+14.15, for as <hi>Zalucus</hi> lawgiver to the Locrians, after that he had made
+adultery puniſhable by loſſe of both the eyes, although as an abſolute
+Prince he might have pardoned his ſon, though convict of the ſin, &amp;
+ſo have diſpenſed with the Law in his perticular, yet as a juſt Prince,
+or as ſuch as hee deſired to be reputed, hee could nether pardon nor
+diſpence.</p>
+            <p>So though I repute it full of irreverence and prophane
+preſumtion, to diſpute what is within Gods abſolute power, what not, or
+any way to limit that by the Law or rule of our ſpeech or reſon. Yet,
+<hi>Salva dei Juſtitia &amp; very<g ref="char:EOLhyphen"/>tate,</hi> ſaving his juſtice and
+truth, hee could not pardone our ſins without puniſhing them, nor
+abolliſh the curſe, with<g ref="char:EOLhyphen"/>out undergoing it, nor diſtroy the death without
+enduring it, neither could he ſo have conquered ſin, curſe, and death, as
+to ſwallow them up to abſolute victory, if he were any other kind of
+perſon, then wee confeſſe him, nay now and belleve him to be.</p>
+            <p>Now to prove the disjunction neceſſary, take but notice of the
+oppoſition of thoſe two parts in the Propoſition, and then you will
+aprehend, <hi>viz.</hi> that if the truth and juſtice of God had not required
+ſuch a ſacrifice as neceſſary, it had been both cruelty and more then
+Stoicall temerity, or raſhneſſe, to make a perſon of that dignity,
+innocency, and meritoriouſe eminency, ſo to ſuffer the extreameſt of
+all reproaih and punniſhment. Mr. <hi>Biddle</hi> ſeemed rather to 
+<pb n="20" facs="tcp:45860:14"/> ſlight or decline rather then anſwer any thing to this
+Argu<g ref="char:EOLhyphen"/>ment, ſo oppoſed, ſaying no more then what I have heard ſome
+moderne Jewes aſſert upon ſuch like occaſion; But if upon ſecond
+thoughts he can aver any thing, to avoide the force of it, and not in ſo
+doing, abandon the very baſis of the common faith and chriſtianity, it
+ſhall be preſently examined and acknowledged.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>Mr. Biddle:</salute>
+            </opener>
+            <p>THough I have reaſon to underſtand you better then ſome of
+your Adverſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, having ſo lately been an ear witneſs of your
+Aſſerti<g ref="char:EOLhyphen"/>ons, yet by a more naked Diſcovery, I can better evince the
+e<g ref="char:EOLhyphen"/>normity of your new conceits: If you therfore abound it that can<g ref="char:EOLhyphen"/>dor and
+ingenuity which you accuſed me to want, then let your delibe<g ref="char:EOLhyphen"/>rate Anſwer be
+diſtinct and punctually directed to what pincheth; ne<g ref="char:EOLhyphen"/>ver ſtand upon
+ſtricteſt terms us at the conteſt, when you and your Au<g ref="char:EOLhyphen"/>ditors would tie
+me to prove by expreſſe text, <hi>viz.</hi> the bloud of Chriſt to be,
+not only a proper, (or the chiefe) but the only ſacrifice, for ſo we may
+loſe the principall, and ſtray it in the throng of Incidents, which I
+earneſtly deſire to avoyd. Whatſoever I have ſayd for your better
+ſa<g ref="char:EOLhyphen"/>tisfaction, according to the ſence of that ſacred Doctor <hi>(Auguſt
+contra adverſ. Leg. &amp; Prophet.)</hi> viz. <hi>quoniam ſingulari, &amp;
+ſolo vero ſacrificio Chriſti ſanguis pro nobis effuſus eſt:</hi>
+which I durſt not there alleadge, leſt there both he and I ſhould be
+diſdayned, but did rather aſſert the error of your aſſumed Principle
+from our Saviours anſwer to the Sad<g ref="char:EOLhyphen"/>duces, and that teſtamentary inſtance
+of Matth. 26.26. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the ponderation of words uſed by
+the Apoſt Gal. 3. arguing a maine principle not evidently appearing in the
+text: to ſay nothing how they were written for our ſearch, and that
+<hi>Ariſtotle</hi> ſaith enough to make that abſurdity evident:
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45860:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
